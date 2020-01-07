@@ -1,5 +1,2 @@
 # hello-world
-
-Hi Humans!
-
-Yannis here, toodaloo.
+Just another repository
